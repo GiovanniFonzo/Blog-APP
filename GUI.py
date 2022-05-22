@@ -1,11 +1,10 @@
 '''
 -- CA A Basic Blogging App
 -- Name: Giovanni Fonzo
--- Student ID: D19124775
 -- Module: Programming and Algorithms 2 CMPU1017: 2020-21
 -- Year: 2020/2021 
 -- Course: DT249 - Stage 2
--- D19124775_GiovanniFonzo_BasicBloggingApp
+
 '''
 
 #!/usr/bin/env python3
